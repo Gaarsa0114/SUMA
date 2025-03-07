@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace SUMA
 {
-    public class Class1
+    public class SumaClass
     {
-        public static long suma(long a )
+        public static float suma(float a, float b )
+            return (a + b);
     }
 }
